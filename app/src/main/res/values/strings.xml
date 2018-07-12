@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ОПРОСНИК</string>
+    <string name="button">ЗАПИСАТЬ</string>
+    <string name="errorName" />
+    <string name="errorDate" />
+    <string name="errorSurname" />
+    <string name="errorCity" />
+    <string name="errorPoroda" />
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="e_mail">E-mail</string>
+    <string name="city">Город</string>
+    <string name="date">Дата рождения питомца</string>
+    <string name="phone">Телефон</string>
+    <string name="poroda">Порода собак</string>
+    <string name="sum_dog">Сколько у Вас собак</string>
+    <string name="pet_food">Каким кормом Вы кормите</string>
+    <string name="title_breeder">Анкета питомника</string>
+    <string name="title_bayer">Анкета покупателя</string>
+    <string name="text_phone">Телефон</string>
+    <string name="cod_country">+38</string>
+    <string name="scoba_left">(</string>
+    <string name="scoba_right">)</string>
+    <string name="tire_1">-</string>
+    <string name="tire_2">-</string>
+
+</resources>

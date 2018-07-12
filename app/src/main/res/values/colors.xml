@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorError">#f42c2c</color>
+    <color name="color_buttom_zoougolok">#ef9710</color>
+    <color name="color_breeder_zoougolok">#6f449d</color>
+</resources>

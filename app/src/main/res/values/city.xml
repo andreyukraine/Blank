@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_names">
+        <item>Александрия</item>
+        <item>Алчевск</item>
+        <item>Белая Церковь</item>
+        <item>Бердянск</item>
+        <item>Бровары</item>
+        <item>Винница</item>
+        <item>Горловка</item>
+        <item>Днепр</item>
+        <item>Донецк</item>
+        <item>Евпатория</item>
+        <item>Енакиево</item>
+        <item>Житомир</item>
+        <item>Запорожье</item>
+        <item>Ивано-Франковск</item>
+        <item>Каменец-Подольский</item>
+        <item>Каменское </item>
+        <item>Керчь</item>
+        <item>Киев</item>
+        <item>Константиновка</item>
+        <item>Краматорск</item>
+        <item>Красный Луч</item>
+        <item>(Хрустальный)</item>
+        <item>Кременчуг</item>
+        <item>Кривой Рог</item>
+        <item>Кропивницкий</item>
+        <item>Лисичанск</item>
+        <item>Луганск[28]</item>
+        <item>Луцк</item>
+        <item>Львов</item>
+        <item>Макеевка</item>
+        <item>Мариуполь</item>
+        <item>Мелитополь</item>
+        <item>Николаев</item>
+        <item>Никополь</item>
+        <item>Одесса</item>
+        <item>Павлоград</item>
+        <item>Полтава</item>
+        <item>Ровно</item>
+        <item>Севастополь</item>
+        <item>Северодонецк</item>
+        <item>Симферополь</item>
+        <item>Славянск</item>
+        <item>Стаханов</item>
+        <item>(Кадиевка)</item>
+        <item>Сумы</item>
+        <item>Тернополь</item>
+        <item>Ужгород</item>
+        <item>Харьков</item>
+        <item>Херсон</item>
+        <item>Хмельницкий</item>
+        <item>Черкассы</item>
+        <item>Чернигов</item>
+        <item>Черновцы</item>
+    </string-array>
+</resources>
